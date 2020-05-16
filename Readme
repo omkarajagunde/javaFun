@@ -1,0 +1,9 @@
+How to run this file :
+1] First complie DiseaseStrings.java
+2] compile selfDiseaseDiagnosis.java
+3] run Person class (java Person)
+
+How to interact with code :
+* Y - yes option
+* N - no option
+
